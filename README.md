@@ -14,8 +14,7 @@ I focus on creating practical solutions, improving my skills through hands-on pr
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=>
 

@@ -18,3 +18,11 @@ I focus on creating practical solutions, improving my skills through hands-on pr
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
+<br/>
+<br/>
+
+### 📊 statistics
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaqueqv&show_icons=true)
+

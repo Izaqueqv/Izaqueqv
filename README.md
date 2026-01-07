@@ -2,7 +2,7 @@
 
 **`Web Developer (CS Student / JavaScript) `**
 
-I’m a full-stack developer passionate about learning and building projects on the web.
+Hi, i'm Izaque, 20 years old, and a Computer Science student. I’m a full-stack developer passionate about learning and building projects on the web.
 I focus on creating practical solutions, improving my skills through hands-on projects, and constantly exploring new technologies to grow as a developer.
 
 ---

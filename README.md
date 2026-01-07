@@ -7,7 +7,8 @@ I focus on creating practical solutions, improving my skills through hands-on pr
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Languages and Tools  <br>
+
 
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
@@ -18,11 +19,13 @@ I focus on creating practical solutions, improving my skills through hands-on pr
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30" style="padding-right:10px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
-<br/>
-<br/>
+<br>
+<br>
 
-### 📊 statistics
+---
+
+### 📊 statistics <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Izaqueqv&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Izaqueqv&theme=radical)
 
